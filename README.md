@@ -12,3 +12,5 @@ Django is a high-level Python Web framework that encourages rapid development an
      
         - First Released
 
+# Clone the repo and run followng command to get
+```python manage.py runserver```
